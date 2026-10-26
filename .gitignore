@@ -1,0 +1,12 @@
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+!**/.env.example
+*.log
+server/scripts/backup_*.json
+server/audit_output.json
+server/catalogue_inspection.txt
+server/course_issues_analysis.json
+server/deep_audit_results.json
+server/verified_videos_metadata.json
