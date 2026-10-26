@@ -42,7 +42,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/NybHckSEQBI",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/d6uG-VHXvxw",
         "videoType": "youtube",
         "duration": 900,
         "order": 0,
@@ -237,7 +237,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/NybHckSEQBI",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/d6uG-VHXvxw",
         "videoType": "youtube",
         "duration": 1080,
         "order": 3,
@@ -1902,7 +1902,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/NybHckSEQBI",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/FgW4yAkBs3k",
         "videoType": "youtube",
         "duration": 900,
         "order": 0,
@@ -1967,7 +1967,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/rfscVS0vtbw",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/-1ntOyQcIX0",
         "videoType": "youtube",
         "duration": 960,
         "order": 1,
@@ -2032,7 +2032,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/PkZNo7MFNFg",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/frSy8ESfIg0",
         "videoType": "youtube",
         "duration": 1020,
         "order": 2,
@@ -2097,7 +2097,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/8jLOx1hD3_o",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/bhF5iR1rufo",
         "videoType": "youtube",
         "duration": 1080,
         "order": 3,
@@ -2162,7 +2162,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/b1t41Q3xRM8",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/qNnR3I-FET8",
         "videoType": "youtube",
         "duration": 1140,
         "order": 4,
@@ -6550,7 +6550,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/8mAITcNt710",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/zOa5o9Yq_ZU",
         "videoType": "youtube",
         "duration": 900,
         "order": 0,
@@ -6615,7 +6615,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/8mAITcNt710",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/xD3DWFAo31U",
         "videoType": "youtube",
         "duration": 960,
         "order": 1,
@@ -6680,7 +6680,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/8mAITcNt710",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/VgGTF3cI2Kg",
         "videoType": "youtube",
         "duration": 1020,
         "order": 2,
@@ -6745,7 +6745,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/8mAITcNt710",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/x14G4DCk4nY",
         "videoType": "youtube",
         "duration": 1080,
         "order": 3,
@@ -6810,7 +6810,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/8mAITcNt710",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/xuBWVj9NmEg",
         "videoType": "youtube",
         "duration": 1140,
         "order": 4,
@@ -7945,7 +7945,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/NybHckSEQBI",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/z1BvrkPF2LE",
         "videoType": "youtube",
         "duration": 900,
         "order": 0,
@@ -8010,7 +8010,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/rfscVS0vtbw",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/4AiXfFTkMNQ",
         "videoType": "youtube",
         "duration": 960,
         "order": 1,
@@ -8075,7 +8075,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/PkZNo7MFNFg",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/SZbdK9e9bxs",
         "videoType": "youtube",
         "duration": 1020,
         "order": 2,
@@ -8140,7 +8140,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/8jLOx1hD3_o",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/cVf38y07cfk",
         "videoType": "youtube",
         "duration": 1080,
         "order": 3,
@@ -8205,7 +8205,7 @@ export const ALL_CURRICULUM_COURSES = [
             "Break the problem down step-by-step as shown in the walkthrough."
           ]
         },
-        "videoUrl": "https://www.youtube-nocookie.com/embed/b1t41Q3xRM8",
+        "videoUrl": "https://www.youtube-nocookie.com/embed/mLhwdITTrfE",
         "videoType": "youtube",
         "duration": 1140,
         "order": 4,

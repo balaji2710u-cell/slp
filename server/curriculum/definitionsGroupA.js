@@ -45,7 +45,7 @@ The Soroban consists of an outer rectangular frame and a horizontal dividing bea
           solution: "7 (5 + 2 = 7).",
           hints: ["Upper bead is 5", "Two lower beads are 2"]
         },
-        videoUrl: "https://www.youtube-nocookie.com/embed/1vE9Vp6b_5s",
+        videoUrl: "https://www.youtube-nocookie.com/embed/d6uG-VHXvxw",
         videoType: "youtube",
         duration: 900,
         order: 0,

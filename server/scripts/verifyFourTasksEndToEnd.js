@@ -56,16 +56,16 @@ async function verifyAllFourTasks() {
     }
     console.log("  ✔ Standards 6–8: Zero unrelated Abacus/Python video leaks detected.");
 
-    // Check Tamil and Scratch courses have safe empty videoUrl ("Video Coming Soon")
+    // Check Tamil and Scratch courses have valid verified educational video URLs
     const tamilCourse = await Course.findOne({ slug: "tamil-language-communication" });
     assert.ok(tamilCourse, "Tamil course must exist in database");
-    assert.equal(tamilCourse.lessons[0].videoUrl, "", "Tamil lesson videoUrl must be safely empty");
-    console.log("  ✔ Tamil Language course: verified unverified videos safely set to '' (Video Coming Soon).");
+    assert.ok(tamilCourse.lessons[0].videoUrl.includes("FgW4yAkBs3k"), "Tamil lesson 1 must have verified Pebbles Tamil video");
+    console.log("  ✔ Tamil Language course: verified educational video sessions active.");
 
     const scratchCourse = await Course.findOne({ slug: "intro-coding-scratch" });
     assert.ok(scratchCourse, "Scratch course must exist in database");
-    assert.equal(scratchCourse.lessons[0].videoUrl, "", "Scratch lesson videoUrl must be safely empty");
-    console.log("  ✔ Scratch Coding course: Harvard CS50 video removed, safely set to '' (Video Coming Soon).");
+    assert.ok(scratchCourse.lessons[0].videoUrl.includes("zOa5o9Yq_ZU"), "Scratch lesson 1 must have verified Scratch video");
+    console.log("  ✔ Scratch Coding course: verified educational video sessions active.");
 
     // ---------------------------------------------------------
     // TASK 2: Audit Course Titles, Descriptions & Categories

@@ -798,6 +798,44 @@ export default function CourseLearningPage() {
                 >
                   {videoSourceMode === "default" ? "Switch to Direct MP4 Mirror" : "Switch to YouTube Stream"}
                 </button>
+
+                {youtubeEmbedUrl && !videoError && (
+                  <button
+                    type="button"
+                    onClick={() => setVideoError(true)}
+                    className="btn btn-sm"
+                    style={{
+                      backgroundColor: "transparent",
+                      color: "#94a3b8",
+                      border: "1px dashed #475569",
+                      fontSize: "0.75rem",
+                      padding: "0.2rem 0.55rem",
+                      cursor: "pointer"
+                    }}
+                    title="Video blocked or unreachable? Switch to structured text lesson"
+                  >
+                    Video Unavailable? View Notes
+                  </button>
+                )}
+
+                {videoError && (
+                  <button
+                    type="button"
+                    onClick={() => { setVideoError(false); setVideoSourceMode("default"); }}
+                    className="btn btn-sm"
+                    style={{
+                      backgroundColor: "#4f46e5",
+                      color: "#ffffff",
+                      border: "none",
+                      fontSize: "0.75rem",
+                      padding: "0.2rem 0.55rem",
+                      cursor: "pointer"
+                    }}
+                    title="Retry loading video stream"
+                  >
+                    Retry Video Stream
+                  </button>
+                )}
               </div>
 
               {/* Speed Controller for MP4 */}

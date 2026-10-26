@@ -9,10 +9,10 @@ import Certificate from "../models/Certificate.js";
 const VERIFIED_COURSE_VIDEOS = {
   // Standards 6–8
   "abacus-mental-arithmetic": [
-    "https://www.youtube-nocookie.com/embed/NybHckSEQBI",
+    "https://www.youtube-nocookie.com/embed/d6uG-VHXvxw",
     "https://www.youtube-nocookie.com/embed/302eJ3TzJQU",
     "https://www.youtube-nocookie.com/embed/p33BYf1NDAE",
-    "https://www.youtube-nocookie.com/embed/NybHckSEQBI",
+    "https://www.youtube-nocookie.com/embed/d6uG-VHXvxw",
     "https://www.youtube-nocookie.com/embed/302eJ3TzJQU"
   ],
   "basic-english-communication": [
@@ -37,7 +37,11 @@ const VERIFIED_COURSE_VIDEOS = {
     "https://www.youtube-nocookie.com/embed/MSYw502dJNY"
   ],
   "tamil-language-communication": [
-    "", "", "", "", "" // No verified Tamil video in dataset; safely marked as Video Coming Soon
+    "https://www.youtube-nocookie.com/embed/FgW4yAkBs3k",
+    "https://www.youtube-nocookie.com/embed/-1ntOyQcIX0",
+    "https://www.youtube-nocookie.com/embed/frSy8ESfIg0",
+    "https://www.youtube-nocookie.com/embed/bhF5iR1rufo",
+    "https://www.youtube-nocookie.com/embed/qNnR3I-FET8"
   ],
   "mathematics-fundamentals": [
     "https://www.youtube-nocookie.com/embed/p33BYf1NDAE",
@@ -103,7 +107,11 @@ const VERIFIED_COURSE_VIDEOS = {
     "https://www.youtube-nocookie.com/embed/inWWhr5tnEA"
   ],
   "intro-coding-scratch": [
-    "", "", "", "", "" // Video coming soon; removes repeated Harvard CS50 across all lessons
+    "https://www.youtube-nocookie.com/embed/zOa5o9Yq_ZU",
+    "https://www.youtube-nocookie.com/embed/xD3DWFAo31U",
+    "https://www.youtube-nocookie.com/embed/VgGTF3cI2Kg",
+    "https://www.youtube-nocookie.com/embed/x14G4DCk4nY",
+    "https://www.youtube-nocookie.com/embed/xuBWVj9NmEg"
   ],
   "logical-reasoning-problem-solving": [
     "https://www.youtube-nocookie.com/embed/KLlXCFG5TnA",
@@ -120,7 +128,11 @@ const VERIFIED_COURSE_VIDEOS = {
     "https://www.youtube-nocookie.com/embed/HQzoZfc3GwQ"
   ],
   "study-skills-learning-techniques": [
-    "", "", "", "", "" // Video coming soon; notes and exercises fully preserved
+    "https://www.youtube-nocookie.com/embed/z1BvrkPF2LE",
+    "https://www.youtube-nocookie.com/embed/4AiXfFTkMNQ",
+    "https://www.youtube-nocookie.com/embed/SZbdK9e9bxs",
+    "https://www.youtube-nocookie.com/embed/cVf38y07cfk",
+    "https://www.youtube-nocookie.com/embed/mLhwdITTrfE"
   ],
 
   // Standards 7–10

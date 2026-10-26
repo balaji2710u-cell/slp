@@ -58,7 +58,7 @@ To set **7**:
           solution: "8 (Upper bead = 5, plus 3 lower beads = 3. Total: 5 + 3 = 8).",
           hints: ["Upper bead value is 5", "Each lower bead value is 1"]
         },
-        videoUrl: "https://www.youtube-nocookie.com/embed/1vE9Vp6b_5s",
+        videoUrl: "https://www.youtube-nocookie.com/embed/d6uG-VHXvxw",
         videoType: "youtube",
         duration: 900,
         order: 0,
