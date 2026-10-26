@@ -4,7 +4,7 @@
  * detailed error normalization, and database connectivity status tracking.
  */
 
-const API_BASE = "/api";
+const API_BASE = "https://smart-learning-api.onrender.com/api";
 
 export function getAuthToken() {
   try {
